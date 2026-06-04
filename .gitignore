@@ -5,7 +5,7 @@ __pycache__/
 env/
 venv/
 .env
-devamsizlik.db  # Veritabanı dosyası GitHub'a ATILMAZ! Güvenlik açığıdır.
+devamsizlik.db 
 
 # Flutter / Dart
 .dart_tool/
